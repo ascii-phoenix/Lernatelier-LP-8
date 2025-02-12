@@ -17,3 +17,4 @@ Heute konnte ich die Sprites erfolgreich auf die Bilder setzen und ihre Größe 
 - [x] gröse der sprite anpassen je nach grösse des Monitor
 - [ ] mitte des sprite finen
 - [ ] Hittetection durch sprite
+Wieter geht es bei Lernatelier-LP-9
